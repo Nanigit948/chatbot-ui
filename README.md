@@ -8,7 +8,7 @@ See a [demo](https://twitter.com/mckaywrigley/status/1636103188733640704).
 
 ![Chatbot UI](./public/screenshot.png)
 
-## Updates
+### Updates
 
 Chatbot UI will be updated over time.
 
